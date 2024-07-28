@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.immoshielddronepushfetchinoutEditor",          
+    "references": ["be.eloistree.immoshielddronepushfetchinout"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

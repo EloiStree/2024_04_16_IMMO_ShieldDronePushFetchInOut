@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.immoshielddronepushfetchinout",                              
+  "displayName": "IMMO Shield Drone Push Fetch In Out",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Code to push out and fetch in Immo Shield Drone game info",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_04_16_IMMO_ShieldDronePushFetchInOut.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

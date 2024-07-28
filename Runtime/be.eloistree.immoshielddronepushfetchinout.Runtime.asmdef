@@ -1,0 +1,21 @@
+{
+    "name": "be.eloistree.immoshielddronepushfetchinout",
+    "rootNamespace": "",
+    "references": [
+        "be.eloistree.immoshielddrone",
+        "be.eloistree.generaltoolbox",
+        "be.eloistree.networksenders",
+        "be.eloistree.memoryfilecommunicationdllinunity",
+        "be.eloistree.watchexecutetime",
+        "be.eloistree.immogeneric16k"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
